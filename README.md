@@ -1,7 +1,7 @@
 # Grind75
 
 ## Overview
-This repository contains my solutions to questions the [Grind75](https://www.techinterviewhandbook.org/grind75/) list.
+This repository contains my solutions to questions on the [Grind75](https://www.techinterviewhandbook.org/grind75/) list.
 
 | # | Question                                                                                                      | Submission                                                                                     | Runtime | Performance | Difficulty |
 |---|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------|-------------|------------|
