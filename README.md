@@ -10,3 +10,6 @@ This repository contains my solutions to questions on the [Grind75](https://www.
 | 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                   | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/MergeTwoSortedLists.java)       | 0ms     | 100%        | Easy       |
 | 4 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/BestTimeToBuyAndSellStock.java) | 2ms     | 72.40%      | Easy       |
 | 5 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                               | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/ValidPalindrome.java)           | 4ms     | 54.42%      | Easy       |
+| 7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                     | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/ValidAnagram.java)              | 3ms     | 90.36%      | Easy       |
+| 8 | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                     | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/BinarySearch.java)              | 0ms     | 100%        | Easy       |
+ 
