@@ -5,6 +5,8 @@ This repository contains my solutions to the [Grind75](https://www.techinterview
 
 All entries are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
+(*Note*: Performance is the percentage of submissions that my code outperforms in terms of runtime.)
+
 | #  | Question                                                                                                                                   | Submission                                                                                                       | Runtime | Performance |
 |----|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------|-------------|
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                              | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/TwoSum.java)                                      | 1ms     | 98.25%      |
