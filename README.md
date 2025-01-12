@@ -7,7 +7,7 @@ All entries are sourced from my [LeetCode](https://github.com/shumarb/leetcode) 
 
 (*Note*: Performance is the percentage of submissions that my code outperforms in terms of runtime.)
 
-Completed: 19/75.
+Completed: 20/75.
 
 | #  | Question                                                                                                                                   | Submission                                                                                                       | Runtime | Performance |
 |----|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------|-------------|
@@ -25,6 +25,7 @@ Completed: 19/75.
 | 20 | [Longest Substring Without Repeated Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/medium/java/LongestSubstringWithoutRepeatedCharacters.java) | 6ms     | 70.02%      |
 | 28 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                    | [Java](https://github.com/shumarb/leetcode/blob/main/medium/java/ProductOfArrayExceptSelf.java)                  | 2ms     | 89.32%      |
 | 32 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                                      | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/ReverseLinkedList.java)                           | 4ms     | 98.74%      |
+| 49 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)                                          | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/MiddleOfTheLinkedList.java)                       | 0ms     | 100%        |
 | 46 | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                                            | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/MajorityElement.java)                             | 2ms     | 99.80%      |
 | 62 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)                                                    | [Java](https://github.com/shumarb/leetcode/blob/main/hard/java/MergeKSortedLists.java)                           | 5ms     | 34.76%      |
 | 65 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description)                                                         | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/ContainsDuplicate.java)                           | 10ms    | 89.16%      |
