@@ -7,7 +7,7 @@ All entries are sourced from my [LeetCode](https://github.com/shumarb/leetcode) 
 
 (*Note*: Performance is the percentage of submissions that my code outperforms in terms of runtime.)
 
-Completed: 20/75.
+Completed: 21/75.
 
 | #  | Question                                                                                                                                   | Submission                                                                                                       | Runtime | Performance |
 |----|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------|-------------|
@@ -22,8 +22,9 @@ Completed: 20/75.
 | 17 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)                                    | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/ImplementQueueUsingStacks.java)                   | 0ms     | 100%        |
 | 18 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)                                                          | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/FirstBadVersion.java)                             | 24ms    | 98.13%      |
 | 19 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                                                      | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/RansomNote.java)                                  | 1ms     | 99.52%      |
-| 20 | [Longest Substring Without Repeated Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/medium/java/LongestSubstringWithoutRepeatedCharacters.java) | 6ms     | 70.02%      |
+| 20 | [Add Binary](https://leetcode.com/problems/add-binary/description/)                                                                        | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/AddBinary.java)                                   | 6ms     | 13.70%      |
 | 28 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                    | [Java](https://github.com/shumarb/leetcode/blob/main/medium/java/ProductOfArrayExceptSelf.java)                  | 2ms     | 89.32%      |
+| 29 | [Longest Substring Without Repeated Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](https://github.com/shumarb/leetcode/blob/main/medium/java/LongestSubstringWithoutRepeatedCharacters.java) | 6ms     | 70.02%      |
 | 32 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                                      | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/ReverseLinkedList.java)                           | 4ms     | 98.74%      |
 | 49 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)                                          | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/MiddleOfTheLinkedList.java)                       | 0ms     | 100%        |
 | 46 | [Majority Element](https://leetcode.com/problems/majority-element/description/)                                                            | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/MajorityElement.java)                             | 2ms     | 99.80%      |
